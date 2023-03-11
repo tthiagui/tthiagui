@@ -6,8 +6,8 @@
 
 - My 🎓: <br>
   <a href="https://portal.cebrac.com.br/" target="_blank"> 🎓 Assistente ADM</a> - jan/2021 - jul/2022 <br>
-  <a href="https://www.udemy.com/course/front-end-essencial/" target="_blank"> 🎓 Front-End Design Essencial</a> - at the moment <br>
-  <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"> 🎓 JavaScript</a> - 40h - 2020
+  <a href="https://cursos.dankicode.com/campus/curso-mods-minecraft" target="_blank"> 🎓 Mods para Minecraft</a> - at the moment <br>
+  <a href="https://cursos.dankicode.com/campus/curso-desenvolvimento-web-completo" target="_blank"> 🎓 Desenvolvimento Web</a> - at the moment <br>
   
 
 
@@ -24,19 +24,7 @@
 
 <div align="center">
   <h2>📕 Repositories</h2>
-<a href="https://github.com/xcaio/atividades-do-cenora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=atividades-do-cenora&theme=dark" />
-</a>
-<a href="https://github.com/xcaio/Ava-Landing-Page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=dark" />
-</a>
-  <a href="https://github.com/xCaio/crud-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=crud-app&theme=dark" />
-</a>
-  </a>
-  <a href="https://github.com/GstvMagalhaes/cardpet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=cardpet&theme=dark" />
-</a>
+
   
   
 </div>
@@ -44,8 +32,8 @@
  <br><br>
  
  <h2 align="center"> 👨‍💻 Skills</h2>
- <img align="right" src="https://github.com/xCaio/xCaio/blob/main/bg.jpg" width="250" style="border-radius: 10px;">
+ <img align="right" src="https://github.com/tthiagui/tthiagui/blob/main/kirita.png" width="250" style="border-radius: 10px;">
  
-![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xCaio)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xCaio&layout=compact)
+![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tthiagui)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tthiagui&layout=compact)
 
